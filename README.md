@@ -21,3 +21,5 @@ I had seen reports of dead raccoons during my first project looking for weird an
 
 ### A note
 On initial commit of this project, the github hosted website was taking a very long time to finish uploading and was not yet functioning. 
+
+Publicly available datasets were not committed to the repo, but were linked in the notebook.
